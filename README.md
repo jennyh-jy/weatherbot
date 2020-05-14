@@ -1,1 +1,1 @@
-# newsbot
+# WeatherBot for Telegram
